@@ -73,3 +73,29 @@
     border: 1px solid white;
 
 }
+
+.selengkapnya {
+    text-align: center;
+    color:#4d4d4d;
+}
+
+.box-tengah1 {
+    width: 500px;
+    height: 320px;
+    background-color: #747788;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 70px; 
+    margin-right: auto; 
+    margin-bottom: 20px; 
+    margin-left: auto; 
+    border-radius: 10px;
+    color: #f0f0f0;
+    font-size: 24px;
+    text-shadow: 2px 4px black;
+}
+
+.banner1 {
+    background-color: #1a2335;
+    padding: 50px; 
+}
