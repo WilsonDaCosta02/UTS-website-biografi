@@ -99,3 +99,33 @@
     background-color: #1a2335;
     padding: 50px; 
 }
+
+.box-pendidikan {
+    text-align: center;
+    color: #4d4d4d;
+    margin-top: 60px;
+    align-content: center;
+}
+
+.box-kiri, .box-tengah, .box-kanan {
+    width: 300px;
+    height: 320px;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 30px 20px;
+    margin: 70px 20px 20px 55px ;
+    border-radius: 10px;
+    float: left;
+}
+
+.box-kiri:hover, .box-tengah:hover, .box-kanan:hover {
+    background-color: #3b5997;
+    color: white;
+}
+
+.box-pendidikan h3, p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 0px ;
+}
+
