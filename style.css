@@ -91,7 +91,7 @@
     margin-left: auto; 
     border-radius: 10px;
     color: #f0f0f0;
-    font-size: 24px;
+    font-size: 21px;
     text-shadow: 2px 4px black;
 }
 
@@ -108,12 +108,12 @@
 }
 
 .box-kiri, .box-tengah, .box-kanan {
-    width: 300px;
+    width: 290px;
     height: 320px;
     background-color: #f0f0f0;
     text-align: center;
-    padding: 30px 20px;
-    margin: 70px 20px 20px 55px ;
+    padding: 40px 20px;
+    margin: 70px 20px 10px 50px ;
     border-radius: 10px;
     float: left;
 }
