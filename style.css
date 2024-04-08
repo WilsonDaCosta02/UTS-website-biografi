@@ -136,3 +136,31 @@
     align-content: center;
 }
 
+.banner2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a2335;
+    padding-top: 200px;
+    padding-bottom: 250px;
+}
+
+.box-kontaknya {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+}
+
+.box-kontak,
+.box-instagram,
+.box-lineid {
+    text-align: center;
+}
+
+.footer{
+    background-color: #1a2335;
+   
+}
+
+
